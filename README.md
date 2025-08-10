@@ -81,7 +81,7 @@ This project is licensed under the MIT License.
 ## 🤝 Contributing
 
 Feel free to contribute, open issues, or suggest features!  
-Made with ❤️ by [your name].
+Made with ❤️ by [Satyam Kumar].
 
 ---
 

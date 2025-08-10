@@ -63,7 +63,7 @@ const AllURLs = () => {
                   </td>
                   <td className="py-2 px-4 border-b">
                     <a
-                      href={`http://localhost:3000/api/${url.shortUrl}`}
+                      href={`http://localhost:3000/${url.shortUrl}`}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-blue-500 font-mono hover:underline"
